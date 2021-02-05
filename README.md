@@ -22,6 +22,8 @@ deposits or withdrawals for zaddrs correctly, and should not be used.
 - Some rando
 ```
 
+<img src=berg-sold-his-soul.jpg><br>
+
 TLDR: myhush(.)org has gone malicous due to the ex-technical writer for
 HUSH, Tamsin Valhalla Thorn (clamoring, USA), selling the domain to a
 disgruntled ex-developer Gilard Helena (gilardh, Paris, France) via the disgruntled
@@ -76,7 +78,6 @@ Location: Paris, France
 ## Berg
 
 <img src=berg-trumpet.jpg><br>
-<img src=berg-sold-his-soul.jpg><br>
 ```
 Government Name: Alex Bergeron
 Alias: berg,  on Telegram
