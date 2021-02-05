@@ -47,7 +47,9 @@ Government name: Gilard Helena
 Alias: gilardh, purchased myhush(.)org from clamoring fraudulently
 Location: Paris, France
 ```
+
 <a href="https://www.linkedin.com/in/helena-gilard-4880781ba/">LinkedIn</a>
+
 <a href="https://github.com/gilardh">Github</a>
 
 
@@ -58,7 +60,9 @@ Alias: berg,  on Telegram
 Ex-Marketing and Social Media for Hush
 ```
 <a href="https://github.com/UrgeyBergy">@UrgeyBergy on Github</a>
+
 <a href="https://twitter.com/berg_eron">@berg_eron on Twitter</a>
+
 <a href=t.me/berg_eron>@berg_eron Telegram</a>
 
 ## clamoring
@@ -67,9 +71,14 @@ Government Name: Tamsin Valhalla Thorn
 Ex-technical writer for Hush
 ```
 <a href="https://github.com/clamoring">Github</a>
+
 <a href="https://medium.com/@tamsin.v.thorn">Medium</a>
+
 <a href="https://www.linkedin.com/in/tamsin-thorn-a5178383/">LinkedIn</a>
+
 Bitcoin Address: 168ubXsCTH6x1aVQ94wR3cwmXUknNoskT1
+
 <a href="https://www.reddit.com/user/clamoring">Reddit</a> 
+
 <a href="https://liberdon.com/@clamoring">Liberdon</a> 
 
