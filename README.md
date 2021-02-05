@@ -58,8 +58,8 @@ Further Details About These Fraudsters
 ## gilardh
 
 <img src=gilardh-face.png><br>
-Gilard deleted his cartoon face from Github, confirming it's a real caricature of himself.<br>
-<img src=gilardh-extortion.png>
+Gilard deleted his cartoon face from Github and LinkedIn, confirming it's a real caricature of himself.<br>
+<img src=gilardh-extortion.png><br>
 Gilard attempting to extort HUSH money for myhush(.)org
 ```
 Government name: Gilard Helena
@@ -74,11 +74,15 @@ Location: Paris, France
 
 
 ## Berg
+
+<img src=berg-trumpet.jpg><br>
+<img src=berg-sold-his-soul.jpg><br>
 ```
 Government Name: Alex Bergeron
 Alias: berg,  on Telegram
 Ex-Marketing and Social Media for Hush
 ```
+<img src=berg-linkedin1.png><br>
 <a href="https://github.com/UrgeyBergy">@UrgeyBergy on Github</a>
 
 <a href="https://twitter.com/berg_eron">@berg_eron on Twitter</a>
@@ -86,6 +90,7 @@ Ex-Marketing and Social Media for Hush
 <a href=t.me/berg_eron>@berg_eron Telegram</a>
 
 ## clamoring
+<img src=clamoring-medium.png><br>
 ```
 Government Name: Tamsin Valhalla Thorn
 Ex-technical writer for Hush
