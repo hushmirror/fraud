@@ -47,7 +47,7 @@ Government name: Gilard Helena
 Alias: gilardh, purchased myhush(.)org from clamoring fraudulently
 Location: Paris, France
 ```
-<a href="https://www.linkedin.com/in/helena-gilard-4880781ba/">gilardh</a>
+<a href="https://www.linkedin.com/in/helena-gilard-4880781ba/">LinkedIn</a>
 <a href="https://github.com/gilardh">Github</a>
 
 
@@ -58,6 +58,7 @@ Alias: berg, <a href=t.me/berg_eron>@berg_eron</a> on Telegram
 Ex-Marketing and Social Media for Hush
 ```
 <a href="https://github.com/UrgeyBergy">Github</a>
+<a href="https://twitter.com/berg_eron">Twitter</a>
 
 ## clamoring
 ```
