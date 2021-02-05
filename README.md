@@ -3,6 +3,17 @@
 ## Graviex
 
 Graviex is a fraudulent Russian Bitcoin exchange that should not be trusted.
+After HUSH developers asked them to give 30 days notice for about 6 months,
+they decided to not support zaddrs and gave 14 days notice and then stole
+all the funds that remained of users. At least 25000 HUSH. Additionally,
+Graviex has the HUSH Twitter account LOCKED because they reported our tweets
+about them as VIOLENT. They cannot be trusted with your funds.
+
+## Citex
+
+Citex seems to be a shady exchange running a fake orderbook, where they make their
+own trades go thru regardless of user-submitted orders. They also do not support
+deposits or withdrawals for zaddrs correctly, and should not be used.
 
 ## International Financial Fraud By Ex-Hush Community Members
 
