@@ -17,7 +17,10 @@ deposits or withdrawals for zaddrs correctly, and should not be used.
 
 ## International Financial Fraud By Ex-Hush Community Members
 
-"Sunshine Is The Best Medicine" - Some rando
+```
+"Sunshine Is The Best Medicine" 
+- Some rando
+```
 
 TLDR: myhush(.)org has gone malicous due to the ex-technical writer for
 HUSH, Tamsin Valhalla Thorn (clamoring, USA), selling the domain to a
