@@ -56,6 +56,11 @@ that is up to them. Bitcoin Protocol Is Law around here.
 Further Details About These Fraudsters
 
 ## gilardh
+
+<img src=gilardh-face.png><br>
+Gilard deleted his cartoon face from Github, confirming it's a real caricature of himself.<br>
+<img src=gilardh-extortion.png>
+Gilard attempting to extort HUSH money for myhush(.)org
 ```
 Government name: Gilard Helena
 Alias: gilardh, purchased myhush(.)org from clamoring fraudulently
@@ -63,6 +68,7 @@ Location: Paris, France
 ```
 
 <a href="https://www.linkedin.com/in/helena-gilard-4880781ba/">LinkedIn</a>
+<img src=gilardh-linkedin.png>
 
 <a href="https://github.com/gilardh">Github</a>
 
