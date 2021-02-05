@@ -54,11 +54,12 @@ Location: Paris, France
 ## Berg
 ```
 Government Name: Alex Bergeron
-Alias: berg, <a href=t.me/berg_eron>@berg_eron</a> on Telegram
+Alias: berg,  on Telegram
 Ex-Marketing and Social Media for Hush
 ```
-<a href="https://github.com/UrgeyBergy">Github</a>
-<a href="https://twitter.com/berg_eron">Twitter</a>
+<a href="https://github.com/UrgeyBergy">@UrgeyBergy on Github</a>
+<a href="https://twitter.com/berg_eron">@berg_eron on Twitter</a>
+<a href=t.me/berg_eron>@berg_eron Telegram</a>
 
 ## clamoring
 ```
